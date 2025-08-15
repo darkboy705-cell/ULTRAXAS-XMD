@@ -1,5 +1,5 @@
 {
-  "name": "ultra",
+  "name": "𝖉𝖆𝖗𝖐𝖇𝖔𝖞",
   "version": "2.1.0",
   "description": "Advanced WhatsApp bot using Baileys",
   "main": "index.js",
@@ -24,7 +24,7 @@
     "whatsapp-bot",
     "ultraxas"
   ],
-  "author": "ultraxas",
+  "author": "𝕵𝖚𝖓𝖎𝖔𝖗_𝕯𝖆𝖗𝖐",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
